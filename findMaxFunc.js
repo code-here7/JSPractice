@@ -1,3 +1,6 @@
+//Write a function to find the maximum of three numbers.
+
+
 function findMAx(a,b,c)
 {
     let max;
